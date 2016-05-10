@@ -46,7 +46,7 @@ As days go by, the world environment changes according to real historical data; 
 
 First setup your virtual environment and install the requirements.
 
-Note that `pandas` 18.0 (not yet released) is required to fix the following bug: <https://github.com/pydata/pandas/issues/11699>.
+Note that `pandas` 18.0+ is required to fix the following bug: <https://github.com/pydata/pandas/issues/11699>.
 
 You can run the simulation on a single machine like so:
 
